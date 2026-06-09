@@ -2,7 +2,7 @@
 
 Here we have the info that talks about the project.
 
-## Curo dde Git
+## Curso de Git
 
 - Topic 1: GIT COMMANDS
 - Topic 2: GIT PULL, PUSH, MERGE
